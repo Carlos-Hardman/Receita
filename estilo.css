@@ -1,0 +1,32 @@
+body{
+    margin:0px;
+    
+}
+.banner{
+    background-color:#ca1f20;
+}
+h1{
+    color:orange;
+    font-size:39px;
+    font-family:cursive;
+    margin:0px 0px 20px 380px;
+}
+.foto{
+    width:500px;
+    margin:10px 0px 0px 450px;
+    border-style:solid;
+    border-width:10px;
+    border-color:orange;
+}
+.ingrediente{
+    margin:20px 0px 10px 120px;
+    color:orange;
+    font-size:25px;
+    font-family:cursive;
+}
+.ingredientes{
+    margin:5px 0px 0px 150px;
+    font-size:19px;
+    font-family:cursive;
+    color:orangered;
+}
